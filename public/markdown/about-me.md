@@ -11,7 +11,7 @@ My interests lie in the exciting fields of AI, cybersecurity, networking, and ma
 Contact me by:
 
 - Email: [sachithdhanushka1@gmail.com](mailto:sachithdhanushka1@gmail.com)
-- Github: [@sacheex](https://github.com/sacheex)
+- Github: [@sachithdh](https://github.com/sachithdh)
 - Linkedin: [@Sachith Dhanushka](https://www.linkedin.com/in/sachithdh)
 - WhatsAPp: [@sachith](tel:+94767643457)
 
