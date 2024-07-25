@@ -39,7 +39,7 @@ const bear: BearData[] = [
         title: "Wpa2Hunter",
         file: "https://raw.githubusercontent.com/sachithdh/WPA2Hunter/main/README.md",
         icon: "i-heroicons-solid:fire",
-        excerpt: "Automation tool for capturing WPA2 4-way handshake...",
+        excerpt: "Automation tool for capturing WPA2 4-way handshake... ",
         link: "https://github.com/sachithdh/WPA2Hunter"
       },
       {
