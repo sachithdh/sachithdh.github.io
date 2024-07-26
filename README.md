@@ -1,6 +1,6 @@
 # playground-macos
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.me
+My portfolio website simulating macOS's GUI: https://sachithdh.github.io
 
 Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
