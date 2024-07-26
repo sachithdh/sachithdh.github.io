@@ -2,7 +2,7 @@
 
 My portfolio website simulating macOS's GUI: https://sachithdh.github.io
 
-Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
+
 
 ![light mode](./public/screenshots/light.png)
 ![dark mode](./public/screenshots/dark.png)
@@ -55,6 +55,9 @@ pnpm build
 - [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
 - [vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
 
+Template from [Renovamen](https://github.com/Renovamen/playground-macos)
+
+Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
 &nbsp;
 
