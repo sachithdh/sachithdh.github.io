@@ -15,7 +15,7 @@
 - Bash
 - HTML + CSS
 - MERN Stack
-
+ 
 My interests lie in the exciting fields of AI, cybersecurity, networking, and machine learning. I am passionate about exploring how these technologies can drive innovation and solve complex problems.
 
 ## Contact
