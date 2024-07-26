@@ -38,7 +38,7 @@ const bear: BearData[] = [
         id: "wpa2hunter",
         title: "Wpa2Hunter",
         file: "https://raw.githubusercontent.com/sachithdh/WPA2Hunter/main/README.md",
-        icon: "i-heroicons-solid:fire",
+        icon: "i-heroicons-solid:wifi",
         excerpt: "Automation tool for capturing WPA2 4-way handshake...",
         link: "https://github.com/sachithdh/WPA2Hunter"
       },
@@ -46,7 +46,7 @@ const bear: BearData[] = [
         id: "geminicli",
         title: "GeminiCLI",
         file: "https://raw.githubusercontent.com/sachithdh/GeminiCLI/main/README.md",
-        icon: "i-ri:gamepad-line",
+        icon: "i-heroicons-solid:chat-bubble-left-right",
         excerpt: "A tool to use latest gemini-1.5-pro-latest generative model...",
         link: "https://github.com/sachithdh/GeminiCLI"
       },
@@ -54,7 +54,7 @@ const bear: BearData[] = [
         id: "tranxcribe",
         title: "tranXcribe",
         file: "https://raw.githubusercontent.com/sachithdh/tranXcribe/main/README.md",
-        icon: "i-ri:newspaper-fill",
+        icon: "i-heroicons-solid:microphone",
         excerpt: "Transcribing audio files to text...",
         link: "https://github.com/sachithdh/tranXcribe"
       },
@@ -62,7 +62,7 @@ const bear: BearData[] = [
         id: "tranxcribecli",
         title: "tranxcribe-CLI",
         file: "https://raw.githubusercontent.com/sachithdh/tranXcribe-CLI/master/README.md",
-        icon: "i-fa-brands:vuejs",
+        icon: "i-heroicons-solid:clipboard-document-check",
         excerpt: "A CLI version of tranXcribe webApp...",
         link: "https://github.com/sachithdh/tranXcribe-CLI"
       }
