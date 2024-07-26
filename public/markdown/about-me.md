@@ -13,7 +13,7 @@ Contact me by:
 - Email: [sachithdhanushka1@gmail.com](mailto:sachithdhanushka1@gmail.com)
 - Github: [@sachithdh](https://github.com/sachithdh)
 - Linkedin: [@Sachith Dhanushka](https://www.linkedin.com/in/sachithdh)
-- WhatsAPp: [@sachith](tel:+94767643457)
+- WhatsApp: [@sachith](https://wa.me/qr/QMJJX2CLDR7FC1)
 
 ## Résumé
 
