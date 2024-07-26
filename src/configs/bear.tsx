@@ -64,7 +64,7 @@ const bear: BearData[] = [
         file: "https://raw.githubusercontent.com/sachithdh/tranXcribe-CLI/master/README.md",
         icon: "i-fa-brands:vuejs",
         excerpt: "A CLI version of tranXcribe webApp...",
-        link: "https://oh-vue-icons.js.org"
+        link: "https://github.com/sachithdh/tranXcribe-CLI"
       }
     ]
   }
