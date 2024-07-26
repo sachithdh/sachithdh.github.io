@@ -17,9 +17,8 @@ export interface SystemSlice {
   setVolume: (v: number) => void;
   setBrightness: (v: number) => void;
 }
-
 export const createSystemSlice: StateCreator<SystemSlice> = (set) => ({
-  dark: false,
+  dark: true,
   volume: 100,
   brightness: 80,
   wifi: true,
